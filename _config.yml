@@ -1,4 +1,4 @@
 name: UC Code Camp
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /UC-code-camp
