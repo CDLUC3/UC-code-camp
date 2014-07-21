@@ -1,0 +1,4 @@
+name: UC Code Camp
+markdown: redcarpet
+pygments: true
+baseurl: /UC-code-camp
