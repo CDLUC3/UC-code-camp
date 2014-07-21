@@ -20,13 +20,13 @@ permalink: /agenda/
 
 # Day 2
 
-|	08:30 - 09:00	|	Breakfast and coffee	|
-|	09:00 - 09:15	|	Session planning. Tweak schedule	|
-|	09:15 - 10:00	|	Session D	|
-|	10:00 - 10:30	|	Break	|
-|	10:30 - 11:15	|	Session E	|
-|	11:15 - 12:00	|	Session F	|
-|	12:00 - 13:00	|	Lunch	|
-|	13:00 - 13:30	|	Report back	|
-|	13:30 - 15:00	|	Next steps	|
-|	15:00	|	Close (Snacks available)	|
+|	08:30 - 09:00   |	Breakfast and coffee	|
+|	09:00 - 09:15   |	Session planning. Tweak schedule	|
+|	09:15 - 10:00   |	Session D	|
+|	10:00 - 10:30   |	Break	|
+|	10:30 - 11:15   |	Session E	|
+|	11:15 - 12:00   |	Session F	|
+|	12:00 - 13:00   |	Lunch	|
+|	13:00 - 13:30   |	Report back	|
+|	13:30 - 15:00   |	Next steps	|
+|	15:00   |	Close (Snacks available)	|
