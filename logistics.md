@@ -6,12 +6,15 @@ permalink: /logistics/
 
 **[Register with Eventbrite (free)](http://www.eventbrite.ie/e/uc-code-camp-tickets-10896787585)**
 
+* * * * * * * * 
+
 ## Date & Time
 Start: Wednesday August 27 @ 11 am  
 End: Thursday August 28 @ 3 pm
 
 [Google Map of Locations](https://mapsengine.google.com/map/edit?mid=zx9fdEMH_t_c.kdlQR-ah7Y3Q)
 
+* * * * * * * * 
 
 ## Location 
 
