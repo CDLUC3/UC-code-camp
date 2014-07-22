@@ -20,8 +20,8 @@ title: Home
 
 <br>
 
-**How to participate:** [Register here](http://www.eventbrite.ie/e/uc-code-camp-tickets-10896787585) (free)
+**How to participate:** Register here (free)
 
 <br>
  
-Co-sponsored by the [UC3](http://www.cdlib.org/uc3) at [CDL](http://cdlib.org) and the [UC Libraries Strategic Action Group 1](http://libraries.universityofcalifornia.edu/sag1)
+Co-sponsored by the UC3 at CDL and the UC Libraries Strategic Action Group 1
