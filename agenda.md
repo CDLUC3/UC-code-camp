@@ -6,6 +6,8 @@ permalink: /agenda/
 
 <br><br>
 
+**Have ideas on what we should talk about? [Submit them here!](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form)**
+
 # Day 1
 
 
