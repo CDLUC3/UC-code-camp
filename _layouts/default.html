@@ -1,29 +1,21 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html>
 
   {% include head.html %}
 
-  <body>
+    <body>
 
-      {% include header.html %}
+    {% include header.html %}
 
-
-    <!--<div class="container content">
-      <div class="masthead">
-        <h3 class="masthead-title">
-           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
-        </h3>
-      </div>-->
-
+    <div class="page-content">
+      <div class="wrap">
       <h1>{{ page.title }}</h1>
 
       {{ content }}
-
-      <div class="footer">
-        {% include footer.html %}
       </div>
-    <!--</div>-->
+    </div>
 
-  </body>
+    {% include footer.html %}
+
+    </body>
 </html>

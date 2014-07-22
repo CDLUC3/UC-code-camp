@@ -1,12 +1,14 @@
 # Site settings
 title: UC Code Camp
-email: carly.strasser@ucop.edu
+tagline: 27-28 August 2014
+email: uc3@ucop.edu
 description: "Information about the UC Libraries Code Camp, Oakland CA August 2014"
-baseurl: http://CDLUC3.github.io/UC-code-camp
+baseurl: "http://CDLUC3.github.io/UC-code-camp"
 url: "http://www.cdlib.org"
 twitter_username: UC3CDL
 github_username:  CDLUC3
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
+pygments: true
