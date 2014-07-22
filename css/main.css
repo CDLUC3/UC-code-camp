@@ -8,6 +8,8 @@
 
 html, body { height: 110%; }
 
+p.big {line-height:200%;}
+
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
