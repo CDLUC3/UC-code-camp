@@ -23,6 +23,7 @@ Oakland City Center Conference Center (5 Star)
 
 _Getting there:_ Use 12th St Oakland City Center [BART](http://bart.gov) Station (1 block from facility)
 
+* * * * * * * * 
 
 ## Lodging
 
