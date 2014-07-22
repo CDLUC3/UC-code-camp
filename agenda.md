@@ -55,13 +55,13 @@ permalink: /agenda/
 
 # Day 2
 
-|	08:30 - 09:00| | |	Breakfast and coffee	|
-|	09:00 - 09:15| | |	Session planning. Tweak schedule	|
-|	09:15 - 10:00| | |	Session D	|
-|	10:00 - 10:30| | |	Break	|
-|	10:30 - 11:15| | |	Session E	|
-|	11:15 - 12:00| | |	Session F	|
-|	12:00 - 13:00| | |	Lunch	|
-|	13:00 - 13:30| | |	Report back	|
-|	13:30 - 15:00| | |	Next steps	|
-|	15:00| | |	Close (Snacks available)	|
+<tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
+<tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning. Tweak schedule	</td>	</tr>
+<tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D	</td>	</tr>
+<tr>	<td>	10:00 - 10:30	</td>	<td>	</td>	<td>	</td>	<td>	Break	</td>	</tr>
+<tr>	<td>	10:30 - 11:15	</td>	<td>	</td>	<td>	</td>	<td>	Session E	</td>	</tr>
+<tr>	<td>	11:15 - 12:00	</td>	<td>	</td>	<td>	</td>	<td>	Session F	</td>	</tr>
+<tr>	<td>	12:00 - 13:00	</td>	<td>	</td>	<td>	</td>	<td>	Lunch	</td>	</tr>
+<tr>	<td>	13:00 - 13:30	</td>	<td>	</td>	<td>	</td>	<td>	Report back	</td>	</tr>
+<tr>	<td>	13:30 - 15:00	</td>	<td>	</td>	<td>	</td>	<td>	Next steps	</td>	</tr>
+<tr>	<td>	15:00	</td>	<td>	</td>	<td>	</td>	<td>	Close (Snacks available)	</td>	</tr>
