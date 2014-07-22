@@ -9,7 +9,7 @@ permalink: /agenda/
 # Day 1
 
 
-<table>
+<table cellspacing="14">
 <tr>	
 	<td>	11:00 - 11:15 	</td>	
 	<td>	</td><td>	</td>		
@@ -54,7 +54,7 @@ permalink: /agenda/
 
 # Day 2
 
-<table>
+<table cellspacing="14">
 <tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
 <tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning. Tweak schedule	</td>	</tr>
 <tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D	</td>	</tr>

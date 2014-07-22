@@ -4,7 +4,7 @@ title: Attendees
 permalink: /attendees/
 --- 
 
-<table>
+<table cellspacing="14">
 <tr>	<td>	Tony Aponte	</td>	<td>	</td>	<td>	UCLA	</td>	</tr>
 <tr>	<td>	Sherri Berger	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Diane Bisom	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
