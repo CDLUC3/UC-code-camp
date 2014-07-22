@@ -6,7 +6,14 @@ permalink: /agenda/
 
 <br><br>
 
-**Have ideas on what we should talk about? [Submit them here!](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form)**
+# A few notes about the agenda
+
+We are soliciting ideas!** [Submit yours here.](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form). You can view what others have submitted here: [Suggestions.](https://docs.google.com/spreadsheet/ccc?key=0Agq_OgwoRF1AdDBqb0VlRkNxNGktSWVtSUtFMWxsLVE&usp=sharing)<br>
+
+Bring your problems! We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.<br>
+
+We will have "Dork Shorts" at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short.
+
 
 <br><br>
 
@@ -23,13 +30,13 @@ permalink: /agenda/
 	<td>	11:15 - 13:00	</td>	
 	<td>	</td>	
 	<td>	</td>	
-	<td>	Introductions, dork shorts by campus. Over lunch	</td>	
+	<td>	Introductions, "dork shorts" presentations, by campus. <em>(Over lunch)</em></td>	
 </tr>
 <tr>	
 	<td>	13:00 - 13:30 	</td>	
 	<td>	</td>	
 	<td>	</td>	
-	<td>	Session planning and logistics overview. Tweak schedule	</td>	
+	<td>	Session planning and logistics overview. Tweak schedule as needed.	</td>	
 </tr>
 <tr>	
 	<td>	13:30 - 14:15	</td>	
@@ -60,7 +67,7 @@ permalink: /agenda/
 
 <table cellspacing="14">
 <tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
-<tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning. Tweak schedule	</td>	</tr>
+<tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning Tweak schedule	</td>	</tr>
 <tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D	</td>	</tr>
 <tr>	<td>	10:00 - 10:30	</td>	<td>	</td>	<td>	</td>	<td>	Break	</td>	</tr>
 <tr>	<td>	10:30 - 11:15	</td>	<td>	</td>	<td>	</td>	<td>	Session E	</td>	</tr>
