@@ -8,29 +8,39 @@ permalink: /agenda/
 
 # Day 1
 
+
 <table>
-<tr>
-  <td>Jill</td>
-  <td>Smith</td> 
-  <td>50</td>
+<tr>	
+	<td>	11:00 - 11:15 	</td>	
+	<td>	</td>	
+	<td>	Welcome, ground rules	</td>	
 </tr>
-<tr>
-  <td>Eve</td>
-  <td>Jackson</td> 
-  <td>94</td>
+<tr>	
+	<td>	11:15 - 13:00	</td>	
+	<td>	</td>	
+	<td>	Introductions, dork shorts by campus. Over lunch	</td>	
 </tr>
+<tr>	
+	<td>	13:00 - 13:30 	</td>	
+	<td>	</td>	
+	<td>	Session planning and logistics overview. Tweak schedule	</td>	
+</tr>
+<tr>	
+	<td>	13:30 - 14:15	</td>	
+	<td>	</td>	
+	<td>	Session A	</td>	
+</tr>
+<tr>	
+	<td>	14:15 - 14:45	</td>	
+	<td>	</td>	
+	<td>	Break and snack	</td>	
+</tr>
+<tr>	<td>	14:45 - 15:30	</td>	<td>	</td>	<td>	Session B	</td>	</tr>
+<tr>	<td>	15:30 - 16:15	</td>	<td>	</td>	<td>	Session C	</td>	</tr>
+<tr>	<td>	16:15 - 17:00	</td>	<td>	</td>	<td>	Report back, wrap up, prep for tomorrow	</td>	</tr>
+<tr>	<td>	17:00 - ??	</td>	<td>	</td>	<td>	Happy hour / dinner (on your own)	</td>	</tr>
 </table>
 
-
-|	11:00 - 11:15 	| |	|	Welcome, ground rules	|
-|	11:15 - 13:00	| |	|	Introductions, dork shorts by campus. Over lunch	|
-|	13:00 - 13:30 	| |	|	Session planning and logistics overview. Tweak schedule	|
-|	13:30 - 14:15	| |	|	Session A	|
-|	14:15 - 14:45	| |	|	Break and snack	|
-|	14:45 - 15:30	| |	|	Session B	|
-|	15:30 - 16:15	| |	|	Session C	|
-|	16:15 - 17:00	| |	|	Report back, wrap up, prep for tomorrow	|
-|	17:00 - ??		| |	|	Happy hour / dinner (on your own)	|
 
 <br><br>
 
