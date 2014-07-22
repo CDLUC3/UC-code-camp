@@ -18,6 +18,8 @@ permalink: /attendees/
 <tr>	<td>	Shannon Cronin	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
 <tr>	<td>	Harrison Dekker	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Priyank Doshi	</td>	<td>	</td>	<td>	OP	</td>	</tr>
+<tr>	<td>	Kirk Hastings	</td>	<td>	</td>	<td>	OP	</td>	</tr>
+<tr>	<td>	Martin Haye	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Janine Henri	</td>	<td>	</td>	<td>	UCLA	</td>	</tr>
 <tr>	<td>	Edward Henry	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Ann Hubblet	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
