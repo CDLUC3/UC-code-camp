@@ -12,33 +12,42 @@ permalink: /agenda/
 <table>
 <tr>	
 	<td>	11:00 - 11:15 	</td>	
-	<td>	</td>	
+	<td>	</td><td>	</td>	
+		
 	<td>	Welcome, ground rules	</td>	
 </tr>
 <tr>	
 	<td>	11:15 - 13:00	</td>	
+	<td>	</td>	
 	<td>	</td>	
 	<td>	Introductions, dork shorts by campus. Over lunch	</td>	
 </tr>
 <tr>	
 	<td>	13:00 - 13:30 	</td>	
 	<td>	</td>	
+	<td>	</td>	
 	<td>	Session planning and logistics overview. Tweak schedule	</td>	
 </tr>
 <tr>	
 	<td>	13:30 - 14:15	</td>	
+	<td>	</td>	
 	<td>	</td>	
 	<td>	Session A	</td>	
 </tr>
 <tr>	
 	<td>	14:15 - 14:45	</td>	
 	<td>	</td>	
+	<td>	</td>	
 	<td>	Break and snack	</td>	
 </tr>
-<tr>	<td>	14:45 - 15:30	</td>	<td>	</td>	<td>	Session B	</td>	</tr>
-<tr>	<td>	15:30 - 16:15	</td>	<td>	</td>	<td>	Session C	</td>	</tr>
-<tr>	<td>	16:15 - 17:00	</td>	<td>	</td>	<td>	Report back, wrap up, prep for tomorrow	</td>	</tr>
-<tr>	<td>	17:00 - ??	</td>	<td>	</td>	<td>	Happy hour / dinner (on your own)	</td>	</tr>
+<tr>	<td>	14:45 - 15:30	</td>	<td>	</td><td>	</td>	
+		<td>	Session B	</td>	</tr>
+<tr>	<td>	15:30 - 16:15	</td>	<td>	</td><td>	</td>	
+		<td>	Session C	</td>	</tr>
+<tr>	<td>	16:15 - 17:00	</td>	<td>	</td><td>	</td>	
+		<td>	Report back, wrap up, prep for tomorrow	</td>	</tr>
+<tr>	<td>	17:00 - ??	</td>	<td>	</td><td>	</td>	
+		<td>	Happy hour / dinner (on your own)	</td>	</tr>
 </table>
 
 
