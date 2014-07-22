@@ -16,6 +16,8 @@ permalink: /agenda/
 &nbsp;&nbsp;&nbsp;DMPTool, eScholarship, or other CDL services<br>
 &nbsp;&nbsp;&nbsp;Campus projects and services<br>
 
+<br> 
+
 **Bring your problems!** We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.
 
 <br>
