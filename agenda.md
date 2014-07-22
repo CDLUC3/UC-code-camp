@@ -8,15 +8,15 @@ permalink: /agenda/
 
 # Day 1
 
-|	11:00 - 11:15	|	Welcome, ground rules	|
-|	11:15 - 13:00	|	Introductions, dork shorts by campus. Over lunch	|
-|	13:00 - 13:30	|	Session planning and logistics overview. Tweak schedule	|
-|	13:30 - 14:15	|	Session A	|
-|	14:15 - 14:45	|	Break and snack	|
-|	14:45 - 15:30	|	Session B	|
-|	15:30 - 16:15	|	Session C	|
-|	16:15 - 17:00	|	Report back, wrap up, prep for tomorrow	|
-|	17:00 - ??	|	Happy hour / dinner (on your own)	|
+|	11:00 - 11:15		|	Welcome, ground rules	|
+|	11:15 - 13:00		|	Introductions, dork shorts by campus. Over lunch	|
+|	13:00 - 13:30		|	Session planning and logistics overview. Tweak schedule	|
+|	13:30 - 14:15		|	Session A	|
+|	14:15 - 14:45		|	Break and snack	|
+|	14:45 - 15:30		|	Session B	|
+|	15:30 - 16:15		|	Session C	|
+|	16:15 - 17:00		|	Report back, wrap up, prep for tomorrow	|
+|	17:00 - ??			|	Happy hour / dinner (on your own)	|
 
 # Day 2
 
