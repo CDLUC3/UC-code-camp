@@ -8,6 +8,20 @@ permalink: /agenda/
 
 # Day 1
 
+<table>
+<tr>
+  <td>Jill</td>
+  <td>Smith</td> 
+  <td>50</td>
+</tr>
+<tr>
+  <td>Eve</td>
+  <td>Jackson</td> 
+  <td>94</td>
+</tr>
+</table>
+
+
 |	11:00 - 11:15 	| |	|	Welcome, ground rules	|
 |	11:15 - 13:00	| |	|	Introductions, dork shorts by campus. Over lunch	|
 |	13:00 - 13:30 	| |	|	Session planning and logistics overview. Tweak schedule	|
