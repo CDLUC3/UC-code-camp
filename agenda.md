@@ -4,7 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 
-
+<br><br>
 
 # Day 1
 
@@ -18,6 +18,7 @@ permalink: /agenda/
 |	16:15 - 17:00		|	Report back, wrap up, prep for tomorrow	|
 |	17:00 - ??			|	Happy hour / dinner (on your own)	|
 
+<br><br>
 # Day 2
 
 |	08:30 - 09:00   |	Breakfast and coffee	|

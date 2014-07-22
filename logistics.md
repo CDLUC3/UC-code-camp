@@ -3,11 +3,11 @@ layout: default
 title: Logistics
 permalink: /logistics/
 ---
-
+<br><br>
 [Register with Eventbrite (free)](http://www.eventbrite.ie/e/uc-code-camp-tickets-10896787585)
 
 * * * * * * * * 
-
+<br><br>
 **Date & Time**
 Start: Wednesday August 27 @ 11 am  
 End: Thursday August 28 @ 3 pm
@@ -15,6 +15,7 @@ End: Thursday August 28 @ 3 pm
 [Google Map of Locations](https://mapsengine.google.com/map/edit?mid=zx9fdEMH_t_c.kdlQR-ah7Y3Q)
 
 * * * * * * * * 
+<br><br>
 
 **Location**
 
@@ -24,7 +25,7 @@ Oakland City Center Conference Center (5 Star)
 _Getting there:_ Use 12th St Oakland City Center [BART](http://bart.gov) Station (1 block from facility)
 
 * * * * * * * * 
-
+<br><br>
 **Lodging**
 
 [Marriott Hotel, Oakland City Center](http://www.marriott.com/hotels/travel/oakdt-oakland-marriott-city-center/)  
