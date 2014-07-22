@@ -5,6 +5,9 @@
 
   <body>
 
+      {% include header.html %}
+
+
     <div class="container content">
       <div class="masthead">
         <h3 class="masthead-title">
@@ -13,12 +16,12 @@
         </h3>
       </div>
 
+      <h1>{{ page.title }}</h1>
+
       {{ content }}
 
       <div class="footer">
-        <p>
-          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-        </p>
+        {% include footer.html %}
       </div>
     </div>
 
