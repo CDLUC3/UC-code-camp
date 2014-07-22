@@ -10,16 +10,16 @@ permalink: /agenda/
 
 **We are soliciting ideas!** [Submit yours here](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form). You can view what others have submitted here: [Suggestions.](https://docs.google.com/spreadsheet/ccc?key=0Agq_OgwoRF1AdDBqb0VlRkNxNGktSWVtSUtFMWxsLVE&usp=sharing)
 
-<br><br>
+<br>
 
-Bring your problems! We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.
+**Bring your problems!** We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.
 
-<br><br>
+<br>
 
-We will have "Dork Shorts" at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short. Please volunteer by emailing us at uc3@ucop.edu.
+We will have **Dork Shorts** at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short. Please volunteer by emailing us at uc3@ucop.edu.
 
 
-<br><br>
+<br>
 
 # Day 1
 
@@ -34,7 +34,7 @@ We will have "Dork Shorts" at the start of Code Camp to help get folks on the sa
 	<td>	11:15 - 13:00	</td>	
 	<td>	</td>	
 	<td>	</td>	
-	<td>	Introductions, "dork shorts" presentations, by campus. <em>(Over lunch)</em></td>	
+	<td>	<em>(Over lunch)</em> Introductions, Dork Shorts presentations by campus (see above). </td>	
 </tr>
 <tr>	
 	<td>	13:00 - 13:30 	</td>	
