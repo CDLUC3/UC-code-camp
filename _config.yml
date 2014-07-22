@@ -2,7 +2,7 @@
 title: UC Code Camp
 email: carly.strasser@ucop.edu
 description: "Information about the UC Libraries Code Camp, Oakland CA August 2014"
-baseurl: "http://CDLUC3.github.io/UC-code-camp"
+baseurl: http://CDLUC3.github.io/UC-code-camp
 url: "http://www.cdlib.org"
 twitter_username: UC3CDL
 github_username:  CDLUC3
