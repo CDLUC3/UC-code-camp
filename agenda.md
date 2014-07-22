@@ -12,8 +12,7 @@ permalink: /agenda/
 <table>
 <tr>	
 	<td>	11:00 - 11:15 	</td>	
-	<td>	</td><td>	</td>	
-		
+	<td>	</td><td>	</td>		
 	<td>	Welcome, ground rules	</td>	
 </tr>
 <tr>	
