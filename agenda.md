@@ -10,12 +10,12 @@ permalink: /agenda/
 
 <br>
 
-**We are soliciting ideas for topics!** [Submit yours here](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form). You can view what others have submitted here: [Suggestions.](https://docs.google.com/spreadsheet/ccc?key=0Agq_OgwoRF1AdDBqb0VlRkNxNGktSWVtSUtFMWxsLVE&usp=sharing) <br>
-Potential ideas include<br>
-&nbsp;&nbsp;Data publication - platforms and implementation<br>
-&nbsp;&nbsp;[Dash](https://github.com/CDLUC3/dash/wiki)<br>
-&nbsp;&nbsp;DMPTool, eScholarship, or other CDL services<br>
-&nbsp;&nbsp;Campus projects and services<br>
+**We are soliciting ideas for topics!** [Submit yours here](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform). You can view what others have submitted here: [Suggestions.](https://docs.google.com/spreadsheet/ccc?key=0Agq_OgwoRF1AdDBqb0VlRkNxNGktSWVtSUtFMWxsLVE&usp=sharing) Potential ideas may include...<br>
+&nbsp;&nbsp;&nbsp;Data publication - platforms and implementation<br>
+&nbsp;&nbsp;&nbsp;[Dash](https://github.com/CDLUC3/dash/wiki)<br>
+&nbsp;&nbsp;&nbsp;DMPTool, eScholarship, or other CDL services<br>
+&nbsp;&nbsp;&nbsp;Campus projects and services<br>
+These topics will be used to populate the sessions in the agenda.
 <br>
 
 **Bring your problems!** We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.
