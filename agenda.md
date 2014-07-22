@@ -55,6 +55,7 @@ permalink: /agenda/
 
 # Day 2
 
+<table>
 <tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
 <tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning. Tweak schedule	</td>	</tr>
 <tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D	</td>	</tr>
@@ -65,3 +66,4 @@ permalink: /agenda/
 <tr>	<td>	13:00 - 13:30	</td>	<td>	</td>	<td>	</td>	<td>	Report back	</td>	</tr>
 <tr>	<td>	13:30 - 15:00	</td>	<td>	</td>	<td>	</td>	<td>	Next steps	</td>	</tr>
 <tr>	<td>	15:00	</td>	<td>	</td>	<td>	</td>	<td>	Close (Snacks available)	</td>	</tr>
+</table>
