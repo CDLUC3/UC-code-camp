@@ -8,11 +8,15 @@ permalink: /agenda/
 
 # A few notes about the agenda
 
-We are soliciting ideas!** [Submit yours here.](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form). You can view what others have submitted here: [Suggestions.](https://docs.google.com/spreadsheet/ccc?key=0Agq_OgwoRF1AdDBqb0VlRkNxNGktSWVtSUtFMWxsLVE&usp=sharing)<br>
+**We are soliciting ideas!** [Submit yours here](https://docs.google.com/forms/d/1rsF44qf3qaOp6LqRSVTOBW-LUyPSL50Tg4ywmHjzBMI/viewform?usp=send_form). You can view what others have submitted here: [Suggestions.](https://docs.google.com/spreadsheet/ccc?key=0Agq_OgwoRF1AdDBqb0VlRkNxNGktSWVtSUtFMWxsLVE&usp=sharing)
 
-Bring your problems! We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.<br>
+<br><br>
 
-We will have "Dork Shorts" at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short.
+Bring your problems! We want this to be a working meeting. You can use this time to get some insight from attendees on how to solve your issues.
+
+<br><br>
+
+We will have "Dork Shorts" at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short. Please volunteer by emailing us at uc3@ucop.edu.
 
 
 <br><br>
