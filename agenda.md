@@ -22,7 +22,7 @@ permalink: /agenda/
 
 <br>
 
-We will have **Dork Shorts** at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short. Please volunteer by emailing us at [uc3@ucop.edu](mailto:uc3@ucop.edu).
+We will have **Dork Shorts** at the start of Code Camp to help get folks on the same page. These are intended to be very brief lightning talks that introduce your campus, your projects, your tools, et cetera. We need at least one volunteer from each campus to present a Dork Short. Please volunteer by emailing us at [uc3@ucop.edu](mailto:uc3@ucop.edu). See the [List of Dork Shorts](https://docs.google.com/spreadsheets/d/1A9l-qhInmOWMMK9SiIvIapsNYzNl0yuYKKnp4EJeMaU/edit?usp=sharing).
 
 
 <br>
@@ -40,7 +40,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 	<td>	11:15 - 13:00	</td>	
 	<td>	</td>	
 	<td>	</td>	
-	<td>	<em>(Over lunch)</em>  Introductions, Dork Shorts presentations by campus (see above). </td>	
+	<td>	<em>(Over lunch)</em>  Introductions, <a href="https://docs.google.com/spreadsheets/d/1A9l-qhInmOWMMK9SiIvIapsNYzNl0yuYKKnp4EJeMaU/edit?usp=sharing">Dork Shorts </a> presentations by campus (see above). </td>	
 </tr>
 <tr>	
 	<td>	13:00 - 13:30 	</td>	
