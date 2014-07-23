@@ -22,13 +22,13 @@ permalink: /attendees/
 <tr>	<td>	Martin Haye	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Janine Henri	</td>	<td>	</td>	<td>	UCLA	</td>	</tr>
 <tr>	<td>	Edward Henry	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
-<tr>	<td>	Ann Hubblet	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
+<tr>	<td>	Ann Hubble	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
+<tr>	<td>	Margaret Hughes </td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Polina Ilieva	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Dana Jemison	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Michael Kim	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Susan Koskinen	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Kendra Levine	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
-<tr>	<td>	Xiaoli Li	</td>	<td>	</td>	<td>	Davis	</td>	</tr>
 <tr>	<td>	Shu Liu	</td>	<td>	</td>	<td>	Irvine	</td>	</tr>
 <tr>	<td>	Edward Lopez	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Emilee Mathews	</td>	<td>	</td>	<td>	Irvine	</td>	</tr>
