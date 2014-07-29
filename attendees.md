@@ -46,6 +46,7 @@ permalink: /attendees/
 <tr>	<td>	Chrissy Rissmeyer	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Alisak Sanavongsay	</td>	<td>	</td>	<td>	Merced	</td>	</tr>
 <tr>	<td>	Eric Satzman	</td>	<td>	</td>	<td>	OP	</td>	</tr>
+<tr>	<td>	Scott Smith	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Laura Soito	</td>	<td>	</td>	<td>	Davis	</td>	</tr>
 <tr>	<td>	Marisa Strong	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Dan Szilagyi	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
