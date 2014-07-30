@@ -28,6 +28,7 @@ permalink: /attendees/
 <tr>	<td>	Margaret Hughes </td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Polina Ilieva	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Dana Jemison	</td>	<td>	</td>	<td>	OP	</td>	</tr>
+<tr>	<td>	Bryn Kanar	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Michael Kim	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Susan Koskinen	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Rosalie Lack	</td>	<td>	</td>	<td>	OP	</td>	</tr>
