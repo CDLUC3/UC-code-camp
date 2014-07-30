@@ -5,6 +5,7 @@ permalink: /attendees/
 --- 
 
 <table cellspacing="14">
+<tr>	<td>	Stephen Abrams	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Sherri Berger	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Diane Bisom	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
 <tr>	<td>	Geoffrey Boushey	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
@@ -21,7 +22,6 @@ permalink: /attendees/
 <tr>	<td>	Scott Fisher	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Paul Fogel	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Kirk Hastings	</td>	<td>	</td>	<td>	OP	</td>	</tr>
-<tr>	<td>	Martin Haye	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Janine Henri	</td>	<td>	</td>	<td>	UCLA	</td>	</tr>
 <tr>	<td>	Edward Henry	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Ann Hubble	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
