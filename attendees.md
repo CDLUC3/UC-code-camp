@@ -30,6 +30,7 @@ permalink: /attendees/
 <tr>	<td>	Dana Jemison	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Michael Kim	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Susan Koskinen	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
+<tr>	<td>	Rosalie Lack	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Nick LaViola	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Kendra Levine	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Shu Liu	</td>	<td>	</td>	<td>	Irvine	</td>	</tr>
@@ -40,7 +41,6 @@ permalink: /attendees/
 <tr>	<td>	Eric Milenkiewicz	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
 <tr>	<td>	Garey Mills	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Erik Mitchell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
-<tr>	<td>	Deborah Murphy	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Sue Perry	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Susan Powell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Mark Redar	</td>	<td>	</td>	<td>	OP	</td>	</tr>
