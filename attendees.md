@@ -22,14 +22,11 @@ permalink: /attendees/
 <tr>	<td>	Scott Fisher	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Paul Fogel	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Kirk Hastings	</td>	<td>	</td>	<td>	OP	</td>	</tr>
-<tr>	<td>	Janine Henri	</td>	<td>	</td>	<td>	UCLA	</td>	</tr>
 <tr>	<td>	Edward Henry	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
-<tr>	<td>	Ann Hubble	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Margaret Hughes </td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Polina Ilieva	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Dana Jemison	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Bryn Kanar	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
-<tr>	<td>	Michael Kim	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Susan Koskinen	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	John Kunze	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Rosalie Lack	</td>	<td>	</td>	<td>	OP	</td>	</tr>
@@ -39,11 +36,11 @@ permalink: /attendees/
 <tr>	<td>	Edward Lopez	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Emilee Mathews	</td>	<td>	</td>	<td>	Irvine	</td>	</tr>
 <tr>	<td>	Sean  McGilvray	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
+<tr>	<td>	Matthew McKinley	</td>	<td>	</td>	<td>	Irvine	</td>	</tr>
 <tr>	<td>	Rekha Meena	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Eric Milenkiewicz	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
 <tr>	<td>	Garey Mills	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Erik Mitchell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
-<tr>	<td>	Sue Perry	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Susan Powell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Mark Redar	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Brian Riley	</td>	<td>	</td>	<td>	OP	</td>	</tr>
