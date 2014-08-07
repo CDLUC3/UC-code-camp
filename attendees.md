@@ -32,6 +32,7 @@ permalink: /attendees/
 <tr>	<td>	Bryn Kanar	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Michael Kim	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Susan Koskinen	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
+<tr>	<td>	John Kunze	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Rosalie Lack	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Nick LaViola	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
 <tr>	<td>	Kendra Levine	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
