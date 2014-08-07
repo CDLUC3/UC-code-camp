@@ -7,7 +7,6 @@ permalink: /attendees/
 <table cellspacing="14">
 <tr>	<td>	Stephen Abrams	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Sherri Berger	</td>	<td>	</td>	<td>	OP	</td>	</tr>
-<tr>	<td>	Diane Bisom	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
 <tr>	<td>	Geoffrey Boushey	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Mark Bridge	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Tom Brittnacher	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
