@@ -43,6 +43,7 @@ permalink: /attendees/
 <tr>	<td>	Erik Mitchell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Susan Powell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Mark Redar	</td>	<td>	</td>	<td>	OP	</td>	</tr>
+<tr>	<td>	Mark Reyes	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Brian Riley	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Alisak Sanavongsay	</td>	<td>	</td>	<td>	Merced	</td>	</tr>
 <tr>	<td>	Eric Satzman	</td>	<td>	</td>	<td>	OP	</td>	</tr>
