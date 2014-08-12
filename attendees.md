@@ -40,7 +40,6 @@ permalink: /attendees/
 <tr>	<td>	Rekha Meena	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Eric Milenkiewicz	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
 <tr>	<td>	Garey Mills	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
-<tr>	<td>	Erik Mitchell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Susan Powell	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Mark Redar	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Mark Reyes	</td>	<td>	</td>	<td>	OP	</td>	</tr>
