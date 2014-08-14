@@ -27,9 +27,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 
 <br>
 
-# Day 1  
-
-Wed Aug 27, 2014
+# Day 1 | Wed Aug 27, 2014
 <table cellspacing="14">
 <tr>	
 	<td>	11:00 - 11:15 	</td>	
@@ -86,9 +84,7 @@ Wed Aug 27, 2014
 
 <br><br>
 
-# Day 2
-
-Thu Aug 28, 2014
+# Day 2 | Thu Aug 28, 2014
 <table cellspacing="14">
 <tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
 <tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning Tweak schedule	</td>	</tr>
