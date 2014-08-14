@@ -28,6 +28,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <br>
 
 # Day 1
+Wed Aug 27, 2014
 <table cellspacing="14">
 <tr>	
 	<td>	11:00 - 11:15 	</td>	
