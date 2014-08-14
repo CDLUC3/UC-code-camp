@@ -27,12 +27,13 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 
 <br>
 
-# Day 1
+# Day 1  
 Wed Aug 27, 2014
 <table cellspacing="14">
 <tr>	
 	<td>	11:00 - 11:15 	</td>	
-	<td>	</td><td>	</td>		
+	<td>	</td>
+	<td>	</td>		
 	<td>	Welcome, ground rules	</td>	
 </tr>
 <tr>	
@@ -59,14 +60,26 @@ Wed Aug 27, 2014
 	<td>	</td>	
 	<td>	Break and snack	</td>	
 </tr>
-<tr>	<td>	14:45 - 15:30	</td>	<td>	</td><td>	</td>	
-		<td>	Session B	</td>	</tr>
-<tr>	<td>	15:30 - 16:15	</td>	<td>	</td><td>	</td>	
-		<td>	Session C	</td>	</tr>
-<tr>	<td>	16:15 - 17:00	</td>	<td>	</td><td>	</td>	
-		<td>	Report back, wrap up, prep for tomorrow	</td>	</tr>
-<tr>	<td>	17:00 - ??	</td>	<td>	</td><td>	</td>	
-		<td>	Happy hour / dinner (on your own)	</td>	</tr>
+<tr>	<td>	14:45 - 15:30	</td>	
+		<td>	</td>
+		<td>	</td>	
+		<td>	Session B	</td>	
+	</tr>
+<tr>	<td>	15:30 - 16:15	</td>	
+		<td>	</td>
+		<td>	</td>	
+		<td>	Session C	</td>	
+</tr>
+<tr>	<td>	16:15 - 17:00	</td>	
+		<td>	</td>
+		<td>	</td>	
+		<td>	Report back, wrap up, prep for tomorrow	</td>	
+</tr>
+<tr>	<td>	17:00 - ??	</td>	
+		<td>	</td>
+		<td>	</td>	
+		<td>	Happy hour / dinner (on your own)	</td>	
+</tr>
 </table>
 
 
