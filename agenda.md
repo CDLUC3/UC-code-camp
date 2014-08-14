@@ -28,7 +28,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <br>
 
 # Day 1  
-
+<!-- 
 Wed Aug 27, 2014
 <table cellspacing="14">
 <tr>	
@@ -82,7 +82,7 @@ Wed Aug 27, 2014
 		<td>	Happy hour / dinner (on your own)	</td>	
 </tr>
 </table>
-
+-->
 
 <br><br>
 
