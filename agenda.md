@@ -51,7 +51,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 	<td>	13:30 - 14:15	</td>	
 	<td>	</td>	
 	<td>	</td>	
-	<td>	Session A	</td>	
+	<td>	Session A (45 min) - <a href="https://docs.google.com/document/d/1ZAB71uSMZBe11PmstZknHPAw16605w1_m8M4G3YsOW8/edit?usp=sharing">Session A1</a> || <a href="https://docs.google.com/document/d/17VMWlsWyxkQQAumsT9EvVERFIBk_4JvQtvbODnvpe-c/edit?usp=sharing">Session A2</a>	</td>	
 </tr>
 <tr>	
 	<td>	14:15 - 14:45	</td>	
@@ -62,12 +62,12 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <tr>	<td>	14:45 - 15:30	</td>	
 		<td>	</td>
 		<td>	</td>	
-		<td>	Session B	</td>	
+		<td>	Session B (45 min) - <a href="https://docs.google.com/document/d/1nUi6o02aLEgfhBKX9EEn3q3Ut9M-vEKjFKkOUb1NzUI/edit?usp=sharing">Session B1</a> || <a href="https://docs.google.com/document/d/1kZnmXKshSriXtOw_n9QQVIKE7ZK96SAe7ZlP7RRo5D8/edit?usp=sharing">Session B2</a>	</td>	
 	</tr>
 <tr>	<td>	15:30 - 16:15	</td>	
 		<td>	</td>
 		<td>	</td>	
-		<td>	Session C	</td>	
+		<td>	Session C (45 min) - <a href="https://docs.google.com/document/d/1MXZ65a6rohXiyw7L5Fm-Vw7mcl9WxuflUg9aQDO4w50/edit?usp=sharing">Session C1</a> || <a href="https://docs.google.com/document/d/1Kb9ToHcu722GIW93BSgVV11y4FTMYT_OpO-ckm6xC3A/edit?usp=sharing">Session C2	</td>	
 </tr>
 <tr>	<td>	16:15 - 17:00	</td>	
 		<td>	</td>
@@ -88,10 +88,10 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <table cellspacing="14">
 <tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
 <tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning Tweak schedule	</td>	</tr>
-<tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D	</td>	</tr>
+<tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D (45 min) - <a href="https://docs.google.com/document/d/12pWl6FhL4423YlQ3oWsZydOa0V3Cwk0PqQ0z7yXriAQ/edit?usp=sharing">Session D1</a> || <a href="https://docs.google.com/document/d/1AiLWgOl7m3mQHwO-mDec1ekruhKw483NqUSKDlJoNbY/edit?usp=sharing">Session D2	</td>	</tr>
 <tr>	<td>	10:00 - 10:30	</td>	<td>	</td>	<td>	</td>	<td>	Break	</td>	</tr>
-<tr>	<td>	10:30 - 11:15	</td>	<td>	</td>	<td>	</td>	<td>	Session E	</td>	</tr>
-<tr>	<td>	11:15 - 12:00	</td>	<td>	</td>	<td>	</td>	<td>	Session F	</td>	</tr>
+<tr>	<td>	10:30 - 11:15	</td>	<td>	</td>	<td>	</td>	<td>	Session E (45 min) - <a href="https://docs.google.com/document/d/1IRO5Jo4_Y0MnwCNrFmY8ENzfKBKnlci0ZVb39DkTVZg/edit?usp=sharing">Session E1</a> || <a href="https://docs.google.com/document/d/1IXjvwMeL6SfozPvCFjRqjynyzCg7hAMhPrUBAW6PW4A/edit?usp=sharing">Session E2	</td>	</tr>
+<tr>	<td>	11:15 - 12:00	</td>	<td>	</td>	<td>	</td>	<td>	Session F (45 min) - <a href="https://docs.google.com/document/d/19LEQa2WaSpTcyZJHy5PuWG0BVaLIoBsv9szJnu-SfaI/edit?usp=sharing">Session F1</a> || <a href="https://docs.google.com/document/d/1kVUqpvfHr8-N5plv9UfsC2O-5lydql40G8Y2-Zj7e7A/edit?usp=sharing">Session F2	</td>	</tr>
 <tr>	<td>	12:00 - 13:00	</td>	<td>	</td>	<td>	</td>	<td>	Lunch	</td>	</tr>
 <tr>	<td>	13:00 - 13:30	</td>	<td>	</td>	<td>	</td>	<td>	Report back	</td>	</tr>
 <tr>	<td>	13:30 - 15:00	</td>	<td>	</td>	<td>	</td>	<td>	Next steps	</td>	</tr>
