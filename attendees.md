@@ -52,5 +52,4 @@ permalink: /attendees/
 <tr>	<td>	David Trujillo	</td>	<td>	</td>	<td>	San Diego	</td>	</tr>
 <tr>	<td>	Jess Waggoner	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	David Zuckerman	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
-<tr>	<td>	Alberto Zurita	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 </table>
