@@ -14,7 +14,6 @@ permalink: /attendees/
 <tr>	<td>	Jonathan Cachat	</td>	<td>	</td>	<td>	Davis	</td>	</tr>
 <tr>	<td>	Matthew Critchlow	</td>	<td>	</td>	<td>	San Diego	</td>	</tr>
 <tr>	<td>	Shannon Cronin	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
-<tr>	<td>	Harrison Dekker	</td>	<td>	</td>	<td>	Berkeley	</td>	</tr>
 <tr>	<td>	Priyank Doshi	</td>	<td>	</td>	<td>	OP	</td>	</tr>
 <tr>	<td>	Shawn Duncan	</td>	<td>	</td>	<td>	Santa Cruz	</td>	</tr>
 <tr>	<td>	Shirin Faenza	</td>	<td>	</td>	<td>	OP	</td>	</tr>
