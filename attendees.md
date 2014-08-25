@@ -32,7 +32,6 @@ permalink: /attendees/
 <tr>	<td>	Kendra Levine	</td>	<td>	</td>	<td>	UC Berkeley	</td>	</tr>
 <tr>	<td>	Shu Liu	</td>	<td>	</td>	<td>	UC Irvine	</td>	</tr>
 <tr>	<td>	Edward Lopez	</td>	<td>	</td>	<td>	UC Berkeley	</td>	</tr>
-<tr>	<td>	Emilee Mathews	</td>	<td>	</td>	<td>	UC Irvine	</td>	</tr>
 <tr>	<td>	Sean  McGilvray	</td>	<td>	</td>	<td>	UC Riverside	</td>	</tr>
 <tr>	<td>	Matthew McKinley	</td>	<td>	</td>	<td>	UC Irvine	</td>	</tr>
 <tr>	<td>	Rekha Meena	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
@@ -45,6 +44,7 @@ permalink: /attendees/
 <tr>	<td>	Alisak Sanavongsay	</td>	<td>	</td>	<td>	UC Merced	</td>	</tr>
 <tr>	<td>	Eric Satzman	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
 <tr>	<td>	Scott Smith	</td>	<td>	</td>	<td>	UC Santa Barbara	</td>	</tr>
+<tr>	<td>	Carly Strasser	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
 <tr>	<td>	Marisa Strong	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
 <tr>	<td>	Dan Szilagyi	</td>	<td>	</td>	<td>	UC Riverside	</td>	</tr>
 <tr>	<td>	David Trujillo	</td>	<td>	</td>	<td>	UC San Diego	</td>	</tr>
