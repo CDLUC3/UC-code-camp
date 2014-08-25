@@ -10,7 +10,6 @@ permalink: /attendees/
 <tr>	<td>	Geoffrey Boushey	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Mark Bridge	</td>	<td>	</td>	<td>	San Francisco	</td>	</tr>
 <tr>	<td>	Tom Brittnacher	</td>	<td>	</td>	<td>	Santa Barbara	</td>	</tr>
-<tr>	<td>	Chris Cabrera Thompson	</td>	<td>	</td>	<td>	UCLA	</td>	</tr>
 <tr>	<td>	Jonathan Cachat	</td>	<td>	</td>	<td>	Davis	</td>	</tr>
 <tr>	<td>	Matthew Critchlow	</td>	<td>	</td>	<td>	San Diego	</td>	</tr>
 <tr>	<td>	Shannon Cronin	</td>	<td>	</td>	<td>	Riverside	</td>	</tr>
