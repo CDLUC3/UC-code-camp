@@ -24,7 +24,6 @@ permalink: /attendees/
 <tr>	<td>	Polina Ilieva	</td>	<td>	</td>	<td>	UC San Francisco	</td>	</tr>
 <tr>	<td>	Dana Jemison	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
 <tr>	<td>	Bryn Kanar	</td>	<td>	</td>	<td>	UC Santa Cruz	</td>	</tr>
-<tr>	<td>	Susan Koskinen	</td>	<td>	</td>	<td>	UC Berkeley	</td>	</tr>
 <tr>	<td>	John Kratz	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
 <tr>	<td>	John Kunze	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
 <tr>	<td>	Rosalie Lack	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
