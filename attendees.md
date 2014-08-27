@@ -40,7 +40,6 @@ permalink: /attendees/
 <tr>	<td>	Mark Redar	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
 <tr>	<td>	Mark Reyes	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
 <tr>	<td>	Brian Riley	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
-<tr>	<td>	Alisak Sanavongsay	</td>	<td>	</td>	<td>	UC Merced	</td>	</tr>
 <tr>	<td>	Eric Satzman	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
 <tr>	<td>	Scott Smith	</td>	<td>	</td>	<td>	UC Santa Barbara	</td>	</tr>
 <tr>	<td>	Carly Strasser	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
