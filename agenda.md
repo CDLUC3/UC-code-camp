@@ -77,7 +77,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <tr>	<td>	17:00 - ??	</td>	
 		<td>	</td>
 		<td>	</td>	
-		<td>	Happy hour / dinner (on your own)	</td>	
+		<td>	<a href="https://docs.google.com/document/d/1qXY275n4b-Wo_MPEgaXi6Cr8wIK5VCAUHXuTh9btAXk/edit?usp=sharing"> Happy Hour / dinner </a>(on your own) 	</td>	
 </tr>
 </table>
 
