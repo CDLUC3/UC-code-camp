@@ -51,7 +51,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 	<td>	13:30 - 14:15	</td>	
 	<td>	</td>	
 	<td>	</td>	
-	<td>	Session A (45 min) - <a href="https://docs.google.com/document/d/1ZAB71uSMZBe11PmstZknHPAw16605w1_m8M4G3YsOW8/edit?usp=sharing">Session A1</a> || <a href="https://docs.google.com/document/d/17VMWlsWyxkQQAumsT9EvVERFIBk_4JvQtvbODnvpe-c/edit?usp=sharing">Session A2</a>	</td>	
+	<td>	Session A (45 min) - <a href="https://docs.google.com/document/d/1ZAB71uSMZBe11PmstZknHPAw16605w1_m8M4G3YsOW8/edit?usp=sharing">Collaboration</a> || <a href="https://docs.google.com/document/d/17VMWlsWyxkQQAumsT9EvVERFIBk_4JvQtvbODnvpe-c/edit?usp=sharing">AWS Cloud Computing</a>	</td>	
 </tr>
 <tr>	
 	<td>	14:15 - 14:45	</td>	
