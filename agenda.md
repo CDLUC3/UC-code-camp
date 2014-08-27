@@ -48,28 +48,28 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 	<td>	Session planning and logistics overview. Tweak schedule as needed.	</td>	
 </tr>
 <tr>	
-	<td>	13:30 - 14:15	</td>	
+	<td>	14:15 - 14:45	</td>	
 	<td>	</td>	
 	<td>	</td>	
 	<td>	Session A (45 min) - <a href="https://docs.google.com/document/d/1ZAB71uSMZBe11PmstZknHPAw16605w1_m8M4G3YsOW8/edit?usp=sharing">Collaboration</a> || <a href="https://docs.google.com/document/d/17VMWlsWyxkQQAumsT9EvVERFIBk_4JvQtvbODnvpe-c/edit?usp=sharing">AWS Cloud Computing</a>	</td>	
 </tr>
 <tr>	
-	<td>	14:15 - 14:45	</td>	
+	<td>	14:45 - 15:00	</td>	
 	<td>	</td>	
 	<td>	</td>	
 	<td>	Break and snack	</td>	
 </tr>
-<tr>	<td>	14:45 - 15:30	</td>	
+<tr>	<td>	15:00 - 15:40	</td>	
 		<td>	</td>
 		<td>	</td>	
 		<td>	Session B (45 min) - <a href="https://docs.google.com/document/d/1nUi6o02aLEgfhBKX9EEn3q3Ut9M-vEKjFKkOUb1NzUI/edit?usp=sharing">Data Analysis / Science</a> || <a href="https://docs.google.com/document/d/1kZnmXKshSriXtOw_n9QQVIKE7ZK96SAe7ZlP7RRo5D8/edit?usp=sharing">Hydra / Blacklight</a>	</td>	
 	</tr>
-<tr>	<td>	15:30 - 16:15	</td>	
+<tr>	<td>	15:40 - 16:20	</td>	
 		<td>	</td>
 		<td>	</td>	
 		<td>	Session C (45 min) - <a href="https://docs.google.com/document/d/1MXZ65a6rohXiyw7L5Fm-Vw7mcl9WxuflUg9aQDO4w50/edit?usp=sharing">UCLDC Harvesting / Omeka</a> || <a href="https://docs.google.com/document/d/1Kb9ToHcu722GIW93BSgVV11y4FTMYT_OpO-ckm6xC3A/edit?usp=sharing">Tools & Environments	</td>	
 </tr>
-<tr>	<td>	16:15 - 17:00	</td>	
+<tr>	<td>	16:20 - 17:00	</td>	
 		<td>	</td>
 		<td>	</td>	
 		<td>	Report back, wrap up, prep for tomorrow	</td>	
