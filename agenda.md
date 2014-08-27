@@ -59,17 +59,17 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 	<td>	</td>	
 	<td>	Break and snack	</td>	
 </tr>
-<tr>	<td>	15:00 - 15:40	</td>	
+<tr>	<td>	15:05 - 15:45	</td>	
 		<td>	</td>
 		<td>	</td>	
 		<td>	Session B (45 min) - <a href="https://docs.google.com/document/d/1nUi6o02aLEgfhBKX9EEn3q3Ut9M-vEKjFKkOUb1NzUI/edit?usp=sharing">Data Analysis / Science</a> || <a href="https://docs.google.com/document/d/1kZnmXKshSriXtOw_n9QQVIKE7ZK96SAe7ZlP7RRo5D8/edit?usp=sharing">Hydra / Blacklight</a>	</td>	
 	</tr>
-<tr>	<td>	15:40 - 16:20	</td>	
+<tr>	<td>	15:45 - 16:25	</td>	
 		<td>	</td>
 		<td>	</td>	
 		<td>	Session C (45 min) - <a href="https://docs.google.com/document/d/1MXZ65a6rohXiyw7L5Fm-Vw7mcl9WxuflUg9aQDO4w50/edit?usp=sharing">UCLDC Harvesting / Omeka</a> || <a href="https://docs.google.com/document/d/1Kb9ToHcu722GIW93BSgVV11y4FTMYT_OpO-ckm6xC3A/edit?usp=sharing">Tools & Environments	</td>	
 </tr>
-<tr>	<td>	16:20 - 17:00	</td>	
+<tr>	<td>	16:25 - 17:00	</td>	
 		<td>	</td>
 		<td>	</td>	
 		<td>	Report back, wrap up, prep for tomorrow	</td>	
