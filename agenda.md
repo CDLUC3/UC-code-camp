@@ -62,12 +62,12 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <tr>	<td>	14:45 - 15:30	</td>	
 		<td>	</td>
 		<td>	</td>	
-		<td>	Session B (45 min) - <a href="https://docs.google.com/document/d/1nUi6o02aLEgfhBKX9EEn3q3Ut9M-vEKjFKkOUb1NzUI/edit?usp=sharing">Session B1</a> || <a href="https://docs.google.com/document/d/1kZnmXKshSriXtOw_n9QQVIKE7ZK96SAe7ZlP7RRo5D8/edit?usp=sharing">Session B2</a>	</td>	
+		<td>	Session B (45 min) - <a href="https://docs.google.com/document/d/1nUi6o02aLEgfhBKX9EEn3q3Ut9M-vEKjFKkOUb1NzUI/edit?usp=sharing">Data Analysis / Science</a> || <a href="https://docs.google.com/document/d/1kZnmXKshSriXtOw_n9QQVIKE7ZK96SAe7ZlP7RRo5D8/edit?usp=sharing">Hydra / Blacklight</a>	</td>	
 	</tr>
 <tr>	<td>	15:30 - 16:15	</td>	
 		<td>	</td>
 		<td>	</td>	
-		<td>	Session C (45 min) - <a href="https://docs.google.com/document/d/1MXZ65a6rohXiyw7L5Fm-Vw7mcl9WxuflUg9aQDO4w50/edit?usp=sharing">Session C1</a> || <a href="https://docs.google.com/document/d/1Kb9ToHcu722GIW93BSgVV11y4FTMYT_OpO-ckm6xC3A/edit?usp=sharing">Session C2	</td>	
+		<td>	Session C (45 min) - <a href="https://docs.google.com/document/d/1MXZ65a6rohXiyw7L5Fm-Vw7mcl9WxuflUg9aQDO4w50/edit?usp=sharing">UCLDC Harvesting / Omeka</a> || <a href="https://docs.google.com/document/d/1Kb9ToHcu722GIW93BSgVV11y4FTMYT_OpO-ckm6xC3A/edit?usp=sharing">Tools & Environments	</td>	
 </tr>
 <tr>	<td>	16:15 - 17:00	</td>	
 		<td>	</td>
