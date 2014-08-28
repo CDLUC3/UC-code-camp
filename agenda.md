@@ -92,8 +92,8 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <tr>	<td>	10:30 - 11:15	</td>	<td>	</td>	<td>	</td>	<td>	Session D (45 min) - <a href="https://docs.google.com/document/d/12pWl6FhL4423YlQ3oWsZydOa0V3Cwk0PqQ0z7yXriAQ/edit?usp=sharing">Agile Methodology </a> || <a href="https://docs.google.com/document/d/1AiLWgOl7m3mQHwO-mDec1ekruhKw483NqUSKDlJoNbY/edit?usp=sharing">Outreach	</td>	</tr>
 <tr>	<td>	11:15 - 12:00	</td>	<td>	</td>	<td>	</td>	<td>	Session E (45 min) - <a href="https://docs.google.com/document/d/1IRO5Jo4_Y0MnwCNrFmY8ENzfKBKnlci0ZVb39DkTVZg/edit?usp=sharing">APIs</a> </td>	</tr>
 <tr>	<td>	12:00 - 13:00	</td>	<td>	</td>	<td>	</td>	<td>	Lunch	</td>	</tr>
-<tr>	<td>	11:15 - 12:00	</td>	<td>	</td>	<td>	</td>	<td>	Session F (45 min) - <a href="https://docs.google.com/document/d/19LEQa2WaSpTcyZJHy5PuWG0BVaLIoBsv9szJnu-SfaI/edit?usp=sharing">Dash implementation</a> </td>	</tr>
-<tr>	<td>	13:00 - 13:30	</td>	<td>	</td>	<td>	</td>	<td>	Report back	</td>	</tr>
-<tr>	<td>	13:30 - 15:00	</td>	<td>	</td>	<td>	</td>	<td><a href="https://docs.google.com/document/d/1LMWSB14beOARp3-if3WSSzWfNHkPUXyenCU5JzlBEI8/edit?usp=sharing">Next steps</a>	</td>	</tr>
+<tr>	<td>	13:00 - 13:45	</td>	<td>	</td>	<td>	</td>	<td>	Session F (45 min) - <a href="https://docs.google.com/document/d/19LEQa2WaSpTcyZJHy5PuWG0BVaLIoBsv9szJnu-SfaI/edit?usp=sharing">Dash implementation</a> </td>	</tr>
+<tr>	<td>	13:45 - 14:30	</td>	<td>	</td>	<td>	</td>	<td>	Report back	</td>	</tr>
+<tr>	<td>	14:30 - 15:00	</td>	<td>	</td>	<td>	</td>	<td><a href="https://docs.google.com/document/d/1LMWSB14beOARp3-if3WSSzWfNHkPUXyenCU5JzlBEI8/edit?usp=sharing">Next steps</a>	</td>	</tr>
 <tr>	<td>	15:00	</td>	<td>	</td>	<td>	</td>	<td>	Close 	</td>	</tr>
 </table>
