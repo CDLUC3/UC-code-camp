@@ -88,7 +88,7 @@ We will have **Dork Shorts** at the start of Code Camp to help get folks on the 
 <table cellspacing="14">
 <tr>	<td>	08:30 - 09:00	</td>	<td>	</td>	<td>	</td>	<td>	Breakfast and coffee	</td>	</tr>
 <tr>	<td>	09:00 - 09:15	</td>	<td>	</td>	<td>	</td>	<td>	Session planning Tweak schedule	</td>	</tr>
-<tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D (45 min) - <a href="https://docs.google.com/document/d/12pWl6FhL4423YlQ3oWsZydOa0V3Cwk0PqQ0z7yXriAQ/edit?usp=sharing">Session D1</a> || <a href="https://docs.google.com/document/d/1AiLWgOl7m3mQHwO-mDec1ekruhKw483NqUSKDlJoNbY/edit?usp=sharing">Session D2	</td>	</tr>
+<tr>	<td>	09:15 - 10:00	</td>	<td>	</td>	<td>	</td>	<td>	Session D (45 min) - <a href="https://docs.google.com/document/d/12pWl6FhL4423YlQ3oWsZydOa0V3Cwk0PqQ0z7yXriAQ/edit?usp=sharing">Session D1</a> || <a href="https://docs.google.com/document/d/1AiLWgOl7m3mQHwO-mDec1ekruhKw483NqUSKDlJoNbY/edit?usp=sharing">Outreach	</td>	</tr>
 <tr>	<td>	10:00 - 10:30	</td>	<td>	</td>	<td>	</td>	<td>	Break	</td>	</tr>
 <tr>	<td>	10:30 - 11:15	</td>	<td>	</td>	<td>	</td>	<td>	Session E (45 min) - <a href="https://docs.google.com/document/d/1IRO5Jo4_Y0MnwCNrFmY8ENzfKBKnlci0ZVb39DkTVZg/edit?usp=sharing">Session E1</a> || <a href="https://docs.google.com/document/d/1IXjvwMeL6SfozPvCFjRqjynyzCg7hAMhPrUBAW6PW4A/edit?usp=sharing">Session E2	</td>	</tr>
 <tr>	<td>	11:15 - 12:00	</td>	<td>	</td>	<td>	</td>	<td>	Session F (45 min) - <a href="https://docs.google.com/document/d/19LEQa2WaSpTcyZJHy5PuWG0BVaLIoBsv9szJnu-SfaI/edit?usp=sharing">Session F1</a> || <a href="https://docs.google.com/document/d/1kVUqpvfHr8-N5plv9UfsC2O-5lydql40G8Y2-Zj7e7A/edit?usp=sharing">Session F2	</td>	</tr>
